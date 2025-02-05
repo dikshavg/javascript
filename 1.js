@@ -1,0 +1,10 @@
+let name="Rohit Sharma";
+console.log("name ="+name);
+let rollno=1001;
+console.log("rollno ="+rollno);
+let Branch="B.Tech";
+console.log("Branch="+Branch);
+let Address="Hyderabad";
+console.log("Address ="+Address);
+let Collagename ="Naresh IT";
+console.log("Collagename ="+ Collagename);
